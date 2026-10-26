@@ -1,0 +1,2 @@
+[1] J. Wu, L. Zhang and F. Gou, "FFBFormer: A Decision-Support Transformer Network for Brain Glioma Analysis," 2025 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), Wuhan, China, 2025, pp. 2994-2999, doi: 10.1109/BIBM66473.2025.11356049.
+[2] Wen, L., Zhang, X., Gou, F., Wu, J. "MTLCS: A cervical auxiliary classification strategy based on multi-task learning". Complex & Intelligent Systems. Volume 12, 47 (2026). https://doi.org/10.1007/s40747-025-02165-4.

@@ -1,0 +1,4 @@
+Cohort,N,True Density (g/g),Pred Density (g/g),Total Carb Error (g),Mass Contrib (g),Density Contrib (g),Interaction (g)
+Western In-Domain (Nutrition5k),506,0.109,0.082,+0.94,+8.80,-5.23,-2.62
+South Asian Transfer (FoodBD),1833,0.192,0.067,-18.18,+25.18,-25.70,-17.65
+East Asian Transfer (ECUSTFD),1484,0.230,0.089,-4.11,+26.80,-11.07,-19.85

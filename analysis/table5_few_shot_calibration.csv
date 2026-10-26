@@ -1,0 +1,5 @@
+Protocol,K,Carb Bias (g),Carb MAE (g),ADA Safe ±15g (%),Safe ±20g (%),Energy MAE (kcal)
+Zero-Shot Baseline (Western Prior),0,-18.42,21.17,48.3,61.7,151.5
+Localized Calibration (K=20),20,+10.53,24.11,52.2,63.3,92.1
+Localized Calibration (K=50),50,-2.81,15.97,63.9,77.8,91.5
+Localized Calibration (K=100),100,+0.94,16.63,57.8,73.3,92.8

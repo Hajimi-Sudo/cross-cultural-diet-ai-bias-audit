@@ -1,0 +1,44 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Caches
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Environments
+.env
+.venv/
+env/
+venv/
+ENV/
+
+# Large binaries / model checkpoints / raw datasets
+checkpoints/
+data/raw/
+data/downloads/
+*.pt
+*.pth
+*.ckpt
+*.bin
+*.h5
+*.tar.gz
+*.zip
+
+# OS artifacts
+.DS_Store
+Thumbs.db
+._*
+
+# LaTeX intermediate build files
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.toc
+*.fls
+*.fdb_latexmk
+*.synctex.gz

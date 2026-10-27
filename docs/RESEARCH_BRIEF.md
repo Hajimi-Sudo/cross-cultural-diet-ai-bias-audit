@@ -26,7 +26,7 @@ When deployed globally, these models confront profound cross-cultural distributi
 
 ## 3. Target Venue Justification (*Frontiers in Nutrition*)
 
-*Frontiers in Nutrition* (JCR Q1, Section: *Nutritional Methodology* or *Nutritional Epidemiology*) prioritizes:
+*Frontiers in Nutrition* (JCR Q1, Section: *Nutritional Methodology*) prioritizes:
 - Methodological validity, reproducibility, and critical evaluation of emerging dietary assessment technologies.
 - Public health equity and digital health inclusion across diverse global populations.
 - Translational impact on chronic disease management and nutritional monitoring.

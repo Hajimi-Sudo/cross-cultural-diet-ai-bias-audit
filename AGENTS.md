@@ -8,7 +8,7 @@
 
 - **Discipline**: Medicine / Nutritional Epidemiology / Digital Health / AI Dietary Assessment
 - **Study Type**: Multi-cohort cross-cultural evaluation, algorithmic fairness audit, and clinical safety validation
-- **Target Journal**: *Frontiers in Nutrition* (Section: Nutritional Methodology or Nutritional Epidemiology)
+- **Target Journal**: *Frontiers in Nutrition* (Section: Nutritional Methodology)
 - **Primary Clinical Endpoints**:
   1. Directional systematic bias (Mean Percentage Error / Bland-Altman mean bias) in energy (kcal) and macronutrient (carbohydrate, protein, fat in grams) estimation when transferring models across diverse cultural cuisines.
   2. Clinical tolerance violation rate in dietary carbohydrate estimation (proportion of meals exceeding $\pm 15\text{g}$ or $\pm 20\%$ error, the clinical safety threshold for postprandial glycemic control and insulin dosing in diabetic management).

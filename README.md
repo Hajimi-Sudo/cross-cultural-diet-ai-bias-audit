@@ -1,4 +1,4 @@
-# Cross-Cultural Generalizability and Systematic Bias in Image-Based Dietary Energy and Macronutrient Estimation
+# Measurement Reliability and Directional Disparity in Deep Learning Dietary Tracking Across Culinary Traditions: A Tri-Cohort Clinical Safety Assessment
 
 [![Target Journal: Frontiers in Nutrition](https://img.shields.io/badge/Target%20Journal-Frontiers%20in%20Nutrition-0072B2.svg)](https://www.frontiersin.org/journals/nutrition)
 [![Section: Nutritional Methodology](https://img.shields.io/badge/Section-Nutritional%20Methodology-brightgreen.svg)]()

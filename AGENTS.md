@@ -2,7 +2,7 @@
 
 ## Working Title
 
-**Measurement Reliability and Directional Disparity in Deep Learning Dietary Tracking Across Culinary Traditions: A Tri-Cohort Clinical Safety Assessment**
+**Directional Error Drift and Diagnostic Concordance in Computerized Dietary Tracking Across Global Food Cultures: A Tri-Cohort Safety Evaluation**
 
 ## Scope
 

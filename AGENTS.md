@@ -2,7 +2,7 @@
 
 ## Working Title
 
-**Directional Error Drift and Diagnostic Concordance in Computerized Dietary Tracking Across Global Food Cultures: A Tri-Cohort Safety Evaluation**
+**Diagnostic Agreement and Directional Bias of Deep Vision Dietary Intake Estimators Across Varied Food Traditions: A Tri-Domain Nutritional Audit**
 
 ## Scope
 
